@@ -7,7 +7,7 @@ This assignment covers the more advanced multithreading topics _futures_ and _fu
 Futures are a feature of Java 8 and can be compared to the concept of _promises_ in JavaScript.
 
 The internet contains lots of good articles about `Future<>` and `CompletableFuture<>` in Java.
-For example [this one](http://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture/) covers everything you need to know for this assignment.
+You can also go through [ChatGPT's introduction](https://ohm-softa.github.io/11ln-futures/#chatgpt-4-on-completablefuture) that covers everything you need to know for this assignment.
 
 _This is the CLI variant of the assignment. There's also an [Android variant](https://github.com/ohm-softa/11-futures-android) which covers the same concepts. **You don't have to implement both!** If you want to switch between them you should be able to copy most of the code you already wrote (except a few platform adoptions)._
 
